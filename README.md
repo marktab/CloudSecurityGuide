@@ -54,7 +54,12 @@ The guide is divided into 12 parts, each focusing on a key aspect of cloud secur
 
 ---
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## How to Use
-1. **Clone or Download**: 
+**Clone or Download**: 
    ```bash
    git clone https://github.com/marktab/CloudSecurityGuide.git
