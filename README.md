@@ -13,7 +13,7 @@ The guide is divided into 12 white papers, each focusing on a key aspect of clou
 1. **[Introduction to CompTIA Security+ SY0-701 for Cloud Architects](whitepapers/Part%201%20Introduction%20to%20CompTIA%20Security%20SY0-701%20for%20Cloud%20Architects.pdf)**
    Foundational concepts and the role of security in cloud architecture.
 
-2. [**General Security Concepts**](whitepapers/Part 2 General Security Concepts.pdf)  
+2. [**General Security Concepts**](whitepapers/Part%202%20General%20Security%20Concepts.pdf)  
    Core principles like the CIA Triad and Zero Trust Architecture.
 
 3. [**Threats, Vulnerabilities, and Mitigations (Part 1)**](whitepapers/Part 3 Threats Vulnerabilities and Mitigations (Part 1).pdf)  
