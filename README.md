@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the **Cloud Security Guide**, your go-to resource for mastering cloud security, as applied to Microsoft Azure. This repository is designed to provide IT professionals, cloud architects, and cybersecurity practitioners with in-depth knowledge, practical tools, and actionable strategies for securing cloud environments. Whether you're preparing for CompTIA Security+ SY0-701 certification or managing enterprise-level cloud security, this guide has you covered.
 
+![Microsoft Azure Cloud Security](MicrosoftCloudSecurity.jpg)
+
 ---
 
 ## Contents
