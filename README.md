@@ -10,7 +10,7 @@ Welcome to the **Cloud Security Guide**, your go-to resource for mastering cloud
 ## Contents
 The guide is divided into 12 white papers, each focusing on a key aspect of cloud security:
 
-1. [**Introduction to CompTIA Security+ SY0-701 for Cloud Architects** ](whitepapers/Part 1 Introduction to CompTIA Security SY0-701 for Cloud Architects.pdf) 
+1. **[Introduction to CompTIA Security+ SY0-701 for Cloud Architects](whitepapers/Part 1 Introduction to CompTIA Security SY0-701 for Cloud Architects.pdf)** 
    Foundational concepts and the role of security in cloud architecture.
 
 2. [**General Security Concepts**](whitepapers/Part 2 General Security Concepts.pdf)  
